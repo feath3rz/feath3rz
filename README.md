@@ -15,7 +15,7 @@ If you're here due to my resume, I'm sure you know how to reach me ;)  So far th
 
 Thank you! <3
 
-- feath3rz
+feath3rz
 
 <!---
 feath3rz/feath3rz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
